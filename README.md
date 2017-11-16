@@ -1,2 +1,2 @@
 # Test
-# This is a test edit to the Raedme.md file
+# This is a test edit to the Readme.md file
